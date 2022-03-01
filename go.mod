@@ -1,3 +1,3 @@
-module github.com/lakulax/go-say-hello.git
+module github.com/lakulax/go-say-hello
 
 go 1.16
